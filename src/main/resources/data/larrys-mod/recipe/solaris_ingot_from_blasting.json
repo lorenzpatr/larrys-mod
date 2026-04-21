@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.2,
+  "group": "solaris_ingot",
+  "ingredient": {
+    "item": "larrys-mod:solaris_ore"
+  },
+  "result": {
+    "id": "larrys-mod:solaris_ingot"
+  }
+}
